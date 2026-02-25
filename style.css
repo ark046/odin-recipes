@@ -1,0 +1,32 @@
+body {
+    background: #eee;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+    width: 512px;
+    background: #fff;
+    margin: 16px auto;
+    padding: 8px;
+}
+
+.title {
+    background: #c3e7ff;
+    text-align: center;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+
+.menu {
+    background: #e3f4ff;
+    margin-bottom: 8px;
+    padding: 8px;
+    text-align: center;
+}
+
+.footer-nav {
+    background: #c3e7ff;
+    text-align: center;
+    margin-bottom: 8px;
+    padding: 8px;
+}
